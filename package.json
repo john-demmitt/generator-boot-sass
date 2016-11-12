@@ -1,0 +1,32 @@
+{
+  "name": "generator-boot-sass",
+  "version": "0.0.1",
+  "description": "Bootstrap website generator with Grunt and Sass",
+  "license": "MIT",
+  "main": "generators/app/index.js",
+  "repository": "Onsa/generator-boot-sass",
+  "author": {
+    "name": "Onsa",
+    "url": "https://github.com/onsa"
+  },
+  "scripts": {
+    "test": "mocha"
+  },
+  "files": [
+    "generators/app"
+  ],
+  "keywords": [
+    "yeoman-generator",
+    "bootstrap",
+    "grunt",
+    "sass"
+  ],
+  "dependencies": {
+    "chalk": "~1.1.0",
+    "yeoman-generator": "~0.19.0",
+    "yosay": "~1.2.0"
+  },
+  "devDependencies": {
+    "mocha": "*"
+  }
+}
