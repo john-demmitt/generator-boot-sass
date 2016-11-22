@@ -1,6 +1,6 @@
 {
   "name": "generator-boot-sass",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "Bootstrap website generator with Grunt and Sass",
   "license": "MIT",
   "main": "generators/app/index.js",
